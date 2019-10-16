@@ -4,7 +4,7 @@ class HelloGit{
 
 public static void main(String args[]){
 
-		void myMethod(){
+		static String myMethod(){
 		sysout("My Method");
 		}
 	myMethod();
