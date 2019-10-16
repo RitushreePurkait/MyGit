@@ -4,8 +4,10 @@ class HelloGit{
 
 public static void main(String args[]){
 
-		static String myMethod(){
+
+		public static String myMethod(){
 		sysout("My Method");
+
 		}
 	myMethod();
 		System.out.println("This will print...***welcome to git***");
